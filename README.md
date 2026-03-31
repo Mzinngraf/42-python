@@ -2,7 +2,7 @@
 
 Python modules from 42 Lisboa.
 
-## Module00
+## Module 00
 - Functions
 - Input / Output
 - Conditionals
@@ -10,13 +10,13 @@ Python modules from 42 Lisboa.
 - Recursion
 - Type hints
 
-## Module01
+## Module 01
 - Introduction to OOP
 - Classes and attributes
 - Methods and state changes
 - Basic simulation logic
 
-## Module02
+## Module 02
 - Exception handling (try / except)
 - Different Python error types
 - Custom exceptions
@@ -24,7 +24,7 @@ Python modules from 42 Lisboa.
 - Raising errors with raise
 - Error handling in small system simulations
 
-## Module03
+## Module 03
 - Command line arguments
 - Lists and basic data processing
 - Tuples and coordinate manipulation
@@ -34,7 +34,7 @@ Python modules from 42 Lisboa.
 - List, dictionary and set comprehensions
 - Simple data analytics concepts
 
-## Module04
+## Module 04
 - File handling in Python
 - Reading and writing files
 - File streams
@@ -43,4 +43,33 @@ Python modules from 42 Lisboa.
 - Error handling with files
 - Crisis response for file access
 
-More modules coming soon.
+## Module 05
+- Introduction to Data Science
+- Matrix operations with NumPy
+- Data manipulation basics
+- Linear algebra for data
+- Statistical analysis fundamentals
+
+## Module 06
+- Functional programming concepts
+- Lambda functions
+- Map, filter and reduce
+- Iterators and Closures
+- Processing data streams
+
+## Module 07
+- Advanced OOP
+- Inheritance and Polymorphism
+- Encapsulation
+- Decorators and Properties
+- Abstract classes and Interfaces
+
+## Module 08
+- Virtual environments (venv)
+- Dependency management with Poetry
+- Package handling (Pandas, Numpy, Matplotlib)
+- Security with Environment Variables (.env)
+- Gitignore best practices for secrets
+
+---
+*More modules coming soon.*

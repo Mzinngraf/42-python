@@ -1,0 +1,16 @@
+
+.env
+
+matrix_env/
+venv/
+env/
+.venv/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv
+pypoetry/
+
+matrix_analysis.png
