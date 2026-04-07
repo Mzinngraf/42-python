@@ -71,5 +71,19 @@ Python modules from 42 Lisboa.
 - Security with Environment Variables (.env)
 - Gitignore best practices for secrets
 
+## Module 09
+- Data Visualization
+- Advanced plotting with Matplotlib and Seaborn
+- Scientific computing and analysis
+- Data cleaning and preprocessing techniques
+- Interpreting statistical results visually
+
+## Module 10
+- Final Capstone Project
+- Integration of all previous concepts
+- Building a complete end-to-end Python application
+- Performance optimization
+- Testing and documentation (Docstrings)
+
 ---
-*More modules coming soon.*
+*All modules completed. This repository serves as a comprehensive record of the 42 Lisboa Python Piscine/Path.*
